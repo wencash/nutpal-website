@@ -1,8 +1,9 @@
+// src/components/NavBar.tsx
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-
-import { twJoin } from "tailwind-merge";
+import { twJoin } from "tailwind-merge"; // Ensure twJoin is imported if not already
 import { close, logo, menu } from "../assets";
+import { Button } from "./Button";
 import { handleScrollToTop } from "./ScrollToTop";
 
 export const NavBar = () => {
@@ -17,9 +18,7 @@ export const NavBar = () => {
 				setShowNavBarBackground(false);
 			}
 		};
-
 		window.addEventListener("scroll", handleScroll);
-
 		return () => {
 			window.removeEventListener("scroll", handleScroll);
 		};
@@ -45,13 +44,24 @@ export const NavBar = () => {
 				</div>
 			</Link>
 
-			<div className="hidden md:flex">
+			{/* Desktop "Launch App" Button */}
+			<div className="group hidden md:flex">
+				{/* Added 'group' class here */}
 				<Link target="_blank" to={"https://nutpal.netlify.app"}>
-					<button className="orangenut-gradient-background scale-10 mr-3 h-10 rounded-full px-5 text-ga-white-default">
-						Launch App
-					</button>
+					<Button
+						schema="primary"
+						type="button"
+						classes="h-10 rounded-full px-5 text-ga-white-default text-sm font-medium mr-3 relative overflow-hidden" // Added relative, overflow-hidden and adjusted classes
+					>
+						{/* The effect div - scaled down for NavBar */}
+						<div className="absolute inset-0 m-auto h-20 w-20 rounded-full bg-ga-orangenut-default/30 blur-xl transition-all duration-1000 ease-in-out group-hover:-rotate-45 group-hover:scale-y-150 group-hover:blur-lg" />
+						{/* Button Text - ensure it's above the effect div if stacking context issues arise */}
+						<span className="relative z-10">Launch App</span>
+					</Button>
 				</Link>
 			</div>
+
+			{/* Mobile Menu */}
 			<div className="flex flex-1 items-center justify-end md:hidden">
 				<img
 					src={toggle ? close : menu}

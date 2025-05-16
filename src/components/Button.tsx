@@ -11,7 +11,7 @@ export const Button = (props: {
 		type={props.type}
 		// makes conditional classes easier to read and write
 		className={twJoin(
-			"flex items-center justify-center gap-1 rounded-md px-3 py-2 transition-colors duration-100",
+			"flex items-center justify-center gap-1 px-3 py-2 transition-colors duration-100",
 			props.schema == "primary" &&
 				"bg-ga-orangenut-darker enabled:hover:bg-ga-orangenut-default enabled:active:bg-ga-orangenut-lighter disabled:cursor-not-allowed disabled:bg-ga-orangenut-darkest disabled:text-ga-gray-lighter",
 			props.schema == "secondary" &&
