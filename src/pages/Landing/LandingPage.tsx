@@ -1,7 +1,7 @@
 import { Footer } from "../../components/Footer";
+import { NavBar } from "../../components/NavBar";
 import { StarsBackground } from "../../components/StarsBackground";
 import { LandingInfo } from "./components/LandingInfo";
-import {NavBar} from "../../components/NavBar";
 
 export const Landing = () => {
 	return (
