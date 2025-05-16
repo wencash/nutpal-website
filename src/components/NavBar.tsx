@@ -3,17 +3,11 @@ import { Link } from "react-router-dom";
 
 import { twJoin } from "tailwind-merge";
 import { close, logo, menu } from "../assets";
+import { handleScrollToTop } from "./ScrollToTop";
 
 export const NavBar = () => {
 	const [toggle, setToggle] = useState(false);
 	const [showNavBarBackground, setShowNavBarBackground] = useState(false);
-
-	const handleScrollToTop = () => {
-		window.scrollTo({
-			top: 0,
-			behavior: "smooth",
-		});
-	};
 
 	useEffect(() => {
 		const handleScroll = () => {
@@ -38,7 +32,7 @@ export const NavBar = () => {
 				showNavBarBackground ? "backdrop-blur-3xl" : "bg-transparent",
 			)}
 		>
-			<Link to="/" onClick={handleScrollToTop}>
+			<Link to="/" onClick={() => handleScrollToTop("instant")}>
 				<div className="flex items-center">
 					<img
 						src={logo}
@@ -50,11 +44,7 @@ export const NavBar = () => {
 					</p>
 				</div>
 			</Link>
-			<div>
-				<ul className="hidden list-none flex-row gap-10 md:flex">
-					<li></li>
-				</ul>
-			</div>
+
 			<div className="hidden md:flex">
 				<Link target="_blank" to={"https://nutpal.netlify.app"}>
 					<button className="orangenut-gradient-background scale-10 mr-3 h-10 rounded-full px-5 text-ga-white-default">

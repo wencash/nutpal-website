@@ -13,7 +13,6 @@
 		padding: 0;
 		box-sizing: border-box;
 		font-family: inherit;
-		scroll-behavior: smooth;
 		color-scheme: dark;
 		outline: none;
 	}
