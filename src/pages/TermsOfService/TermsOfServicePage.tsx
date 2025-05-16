@@ -5,13 +5,18 @@ import { StarsBackground } from "../../components/StarsBackground";
 import { TermSection } from "./components/TermSection";
 
 export const TermsOfService = () => {
+	const handleScrollToTop = () => {
+		window.scrollTo({
+			top: 0,
+			behavior: "smooth",
+		});
+	};
+
 	return (
 		<div className="scrollbar-thin scrollbar-thumb-ga-white-default scrollbar-track-ga-orangenut-darkest scrollbar flex min-h-screen flex-col justify-between gap-12 bg-ga-black-lighter">
 			<StarsBackground />
 
-			<div>
-				<NavBar />
-			</div>
+			<NavBar />
 
 			<div className="mx-auto flex max-w-5xl flex-col gap-12 px-4">
 				<h2 className="text-3xl font-bold">
@@ -161,7 +166,10 @@ export const TermsOfService = () => {
 							level={2}
 							content="10.1. Please go to the link below to read our Privacy Policy:"
 						>
-							<Link to="/privacy"> Privacy Policy</Link>
+							<Link to="/privacy" onClick={handleScrollToTop}>
+								{" "}
+								Privacy Policy
+							</Link>
 						</TermSection>
 					</TermSection>
 

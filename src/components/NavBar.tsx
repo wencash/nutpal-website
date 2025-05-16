@@ -8,6 +8,13 @@ export const NavBar = () => {
 	const [toggle, setToggle] = useState(false);
 	const [showNavBarBackground, setShowNavBarBackground] = useState(false);
 
+	const handleScrollToTop = () => {
+		window.scrollTo({
+			top: 0,
+			behavior: "smooth",
+		});
+	};
+
 	useEffect(() => {
 		const handleScroll = () => {
 			if (window.scrollY > 100) {
@@ -31,7 +38,7 @@ export const NavBar = () => {
 				showNavBarBackground ? "backdrop-blur-3xl" : "bg-transparent",
 			)}
 		>
-			<a href="/">
+			<Link to="/" onClick={handleScrollToTop}>
 				<div className="flex items-center">
 					<img
 						src={logo}
@@ -42,16 +49,18 @@ export const NavBar = () => {
 						NUTPAL <span className="text-ga-orangenut-default">AI</span>
 					</p>
 				</div>
-			</a>
+			</Link>
 			<div>
 				<ul className="hidden list-none flex-row gap-10 md:flex">
 					<li></li>
 				</ul>
 			</div>
 			<div className="hidden md:flex">
-				<button className="orangenut-gradient-background scale-10 mr-3 h-10 rounded-full px-5 text-ga-white-default">
-					<Link to={"https://nutpal.netlify.app"}>Launch App</Link>
-				</button>
+				<Link target="_blank" to={"https://nutpal.netlify.app"}>
+					<button className="orangenut-gradient-background scale-10 mr-3 h-10 rounded-full px-5 text-ga-white-default">
+						Launch App
+					</button>
+				</Link>
 			</div>
 			<div className="flex flex-1 items-center justify-end md:hidden">
 				<img
@@ -67,7 +76,9 @@ export const NavBar = () => {
 				>
 					<ul className="flex flex-1 list-none flex-col items-start justify-end gap-4">
 						<li>
-							<a href="https://nutpal.netlify.app">Launch App</a>
+							<Link target="_blank" to="https://nutpal.netlify.app">
+								Launch App
+							</Link>
 						</li>
 					</ul>
 				</div>

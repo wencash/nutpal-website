@@ -15,7 +15,7 @@ export const Footer = () => {
 			<div className="flex flex-col justify-between gap-8 md:flex-row">
 				{/* logo and about */}
 				<div className="flex flex-col gap-2 font-bold">
-					<Link to="/" className="w-fit">
+					<Link to="/" className="w-fit" onClick={handleScrollToTop}>
 						NUTPAL <span className="text-ga-orangenut-default">AI</span>
 					</Link>
 					<p className="max-w-md text-sm font-light">
@@ -29,10 +29,18 @@ export const Footer = () => {
 					{/* project list */}
 					<ul className="flex flex-col gap-2">
 						<li className="font-bold">Project</li>
-						<Link to="/privacy" className="underline-animation w-fit">
+						<Link
+							to="/privacy"
+							className="underline-animation w-fit"
+							onClick={handleScrollToTop}
+						>
 							<li>Privacy Policy</li>
 						</Link>
-						<Link to="/terms" className="underline-animation w-fit">
+						<Link
+							to="/terms"
+							className="underline-animation w-fit"
+							onClick={handleScrollToTop}
+						>
 							<li>Terms of Service</li>
 						</Link>
 					</ul>
@@ -40,22 +48,22 @@ export const Footer = () => {
 					{/* connect list */}
 					<ul className="flex flex-col gap-2">
 						<li className="font-bold">Connect</li>
-						<a
-							href="https://discord.gg/WP8f5Tm74b"
+						<Link
+							to="https://discord.gg/WP8f5Tm74b"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="underline-animation w-fit"
 						>
 							<li>Discord</li>
-						</a>
-						<a
-							href="https://x.com/NUTPAL_AI"
+						</Link>
+						<Link
+							to="https://x.com/NUTPAL_AI"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="underline-animation w-fit"
 						>
 							<li>X (Twitter)</li>
-						</a>
+						</Link>
 					</ul>
 				</div>
 			</div>

@@ -32,7 +32,7 @@ export const LandingInfo = () => {
 				</div>
 
 				<div className="group flex flex-col items-center gap-4">
-					<Link to="https://nutpal.netlify.app">
+					<Link target="_blank" to="https://nutpal.netlify.app">
 						<Button
 							schema="primary"
 							type="button"
@@ -63,7 +63,7 @@ export const LandingInfo = () => {
 				<LandingSection
 					title="Community-Driven"
 					content="NUTPAL AI is more than a platform. It's a growing community of AI enthusiasts, developers, and roleplay lovers united by curiosity and creativity. We invite you to join us, collaborate on ideas, and explore the full potential of language models. Together, we are shaping the future of interactive AI-powered experiences and creating something meaningful for the world."
-					align="right"
+					align="left"
 					imageLink={community}
 				/>
 			</div>
@@ -80,7 +80,7 @@ export const LandingInfo = () => {
 				</div>
 
 				<div className="group flex flex-col items-center gap-4">
-					<Link to="https://discord.gg/WP8f5Tm74b">
+					<Link target="_blank" to="https://discord.gg/WP8f5Tm74b">
 						<Button
 							schema="primary"
 							type="button"
