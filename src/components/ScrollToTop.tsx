@@ -10,10 +10,3 @@ export const ScrollToTop = () => {
 
 	return null;
 };
-
-export const handleScrollToTop = (behavior: ScrollBehavior = "smooth") => {
-	window.scrollTo({
-		top: 0,
-		behavior: behavior,
-	});
-};

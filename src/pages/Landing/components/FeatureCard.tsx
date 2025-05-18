@@ -5,8 +5,6 @@ interface FeatureCardProps {
 	icon: LucideIcon;
 	title: string;
 	description: string;
-	// Add translation function 't' if you pass it down or use it directly via hook
-	// t: (key: string) => string;
 }
 
 export const FeatureCard: React.FC<FeatureCardProps> = ({
@@ -19,9 +17,7 @@ export const FeatureCard: React.FC<FeatureCardProps> = ({
 			<div className="rounded-full bg-ga-orangenut-default/20 p-3 text-ga-orangenut-default">
 				<Icon size={32} strokeWidth={2} />
 			</div>
-			{/* For translation: title={t('featureX_title')} */}
 			<h3 className="text-xl font-bold text-ga-white-default">{title}</h3>
-			{/* For translation: description={t('featureX_description')} */}
 			<p className="text-sm leading-relaxed text-ga-white-darker">
 				{description}
 			</p>

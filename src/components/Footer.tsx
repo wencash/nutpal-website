@@ -2,11 +2,17 @@ import { ArrowUp } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import { LocalizedLink } from "./LocalizedLink";
-import { handleScrollToTop } from "./ScrollToTop";
 
 export const Footer = () => {
 	const { t } = useTranslation();
 	const year = new Date().getFullYear();
+
+	const handleScrollToTop = (behavior: ScrollBehavior = "smooth") => {
+		window.scrollTo({
+			top: 0,
+			behavior: behavior,
+		});
+	};
 
 	return (
 		<div className="flex flex-col gap-8 bg-ga-black-default px-8 py-6 shadow-xl max-sm:p-3">
@@ -14,11 +20,7 @@ export const Footer = () => {
 			<div className="flex flex-col justify-between gap-8 md:flex-row">
 				{/* logo and about */}
 				<div className="flex flex-col gap-2 font-bold">
-					<Link
-						to="/"
-						className="w-fit"
-						onClick={() => handleScrollToTop("instant")}
-					>
+					<Link to="/" className="w-fit">
 						NUTPAL <span className="text-ga-orangenut-default">AI</span>
 					</Link>
 					<p className="max-w-md text-sm font-light">

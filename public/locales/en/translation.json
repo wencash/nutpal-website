@@ -1,33 +1,22 @@
 {
   "launchApp": "Launch App",
-  "backToHome": "Back Home",
+  "backHome": "Back Home",
   "pageNotFound": "We couldn't find that page.",
-  "aboutUsTitle": "About Us",
-  "aboutUsSubtitle": "Meet NUTPAL AI: Where Innovation Meets Imagination.",
-  "aboutUsContent": "Not just building AI but building something you can feel. Powered by community, built for creativity. We're a collective of AI and Web3 pioneers, united by a passion for building intelligent experiences that empower and inspire. Driven by a transparent, community-first approach, NUTPAL AI was born from a shared dream: to create a platform where advanced AI meets creativity to infinity.",
-  "ourMissionTitle": "Our Mission",
-  "ourMissionSubtitle": "Create. Customize. Connect. Your AI, Your Universe.",
-  "ourMissionContent": "What if AI could be more than just text? Why just chat when you can create? NUTPAL AI puts you in the director's chair. Design AI companions with truly unique personalities, choose from an ever-evolving spectrum of realistic voices, and bring them to life with AI-generated images and even video interactions. Our mission is to deliver this power seamlessly – no complex setups, no expensive hardware, just pure creative freedom. We believe powerful AI should be available to everyone, everywhere.",
-  "communityDrivenTitle": "Community-Driven",
-  "communityDrivenSubtitle": "NUTPAL AI is a living, breathing platform, co-created with you.",
-  "communityDrivenContent": "We're building a vibrant ecosystem where enthusiasts, developers, artists, and roleplayers converge to share, learn, and innovate. Your feedback directly influences our evolution and your creations inspire us all. We invite you to join us, collaborate on ideas, and explore the full potential of Artificial Intelligence. Together, we're pushing the boundaries of what interactive AI can be and creating something meaningful for the world.",
-  "connectwithUsTitle": "Connect with Us",
-  "connectwithUsContent": "Your Community Awaits! Join us, build, share & explore!",
-  "connectwithUsButton": "Join the Discord",
   "hero": {
     "subHeading1": "A community-driven project for",
     "subHeading2": "engaging AI chat, creative roleplay",
     "subHeading3": "and everything in between."
   },
   "keyFeatures": {
-    "sectionTitle": "Unlock the Power of Truly Personal AI",
-    "sectionSubtitle": "Discover core capabilities that make NUTPAL AI a unique creative experience, far beyond traditional chatbots.",
+    "title": "Unlock the Power of Truly Personal AI",
+    "subtitle1": "Discover the core capabilities that make NUTPAL AI",
+    "subtitle2": "a unique creative experience, far beyond traditional chatbots.",
     "feature1": {
       "title": "AI That Comes Alive",
-      "description": "Experience AI with rich personality that understands vast context, expresses nuanced responses, hears your voice, perceives its world, and remembers every interaction."
+      "description": "Experience AI with rich personality that understands vast context, feels deeply nuanced emotions, hears your voice, sees your world, and remembers every interaction."
     },
     "feature2": {
-      "title": "Limitless Customization (Privacy First)",
+      "title": "Limitless Customization",
       "description": "Sculpt your ideal AI: seamlessly blend unique personality, voice, visuals, and real-time animation. Privacy-first: your chats and creations are saved locally, by default."
     },
     "feature3": {
@@ -36,47 +25,57 @@
     },
     "feature4": {
       "title": "Interactive Visual Worlds & Stories",
-      "description": "See your AI and their dynamic environments with cutting-edge image & video generation. Even direct group chats between AIs, pioneering new forms of interactive, AI-driven narratives."
+      "description": "Watch your AI and their dynamic environments with cutting-edge image & real-time video generation. Even start group chats between independent AIs, pioneering a new era of live interactive AI movies."
     }
   },
   "aboutUs": {
     "title": "About Us",
-    "headline": "Meet NUTPAL AI: Where Innovation Meets Imagination.",
-    "subtitle": "Not just building AI, but building something you can feel. Powered by community, built for creativity.",
-    "content": "We're a collective of AI and Web3 pioneers, united by a passion for building intelligent experiences that empower and inspire. Driven by a transparent, community-first approach, NUTPAL AI was born from a shared dream: to create a platform where advanced AI meets creativity to infinity."
+    "subtitle": "Meet NUTPAL AI: Where Innovation Meets Imagination.",
+    "content": "Not just building AI but building something you can feel. Powered by community, built for creativity. We're a collective of AI and Web3 pioneers, united by a passion for building intelligent experiences that empower and inspire. Driven by a transparent, community-first approach, NUTPAL AI was born from a shared dream: to create a platform where advanced AI meets creativity to infinity."
   },
   "ourMission": {
     "title": "Our Mission",
-    "headline": "Create. Customize. Connect. Your AI, Your Universe.",
-    "hook": "What if AI could be more than just text? Why just chat when you can create?",
-    "content": "NUTPAL AI puts you in the director's chair. Design AI companions with truly unique personalities, choose from an ever-evolving spectrum of realistic voices, and bring them to life with AI-generated images and even video interactions. Our mission is to deliver this power seamlessly – no complex setups, no expensive hardware, just pure creative freedom. We believe powerful AI should be available to everyone, everywhere."
+    "subtitle": "Create. Customize. Connect. Your AI, Your Universe.",
+    "content": "What if AI could be more than just text? Why just chat when you can create? NUTPAL AI puts you in the director's chair. Design AI companions with truly unique personalities, choose from an ever-evolving spectrum of realistic voices, and bring them to life with AI-generated images and even video interactions. Our mission is to deliver this power seamlessly – no complex setups, no expensive hardware, just pure creative freedom. We believe powerful AI should be available to everyone, everywhere."
   },
   "communityDriven": {
     "title": "Community-Driven",
-    "headline": "More Than an App: Join Our Thriving AI Ecosystem.",
     "subtitle": "NUTPAL AI is a living, breathing platform, co-created with you.",
     "content": "We're building a vibrant ecosystem where enthusiasts, developers, artists, and roleplayers converge to share, learn, and innovate. Your feedback directly influences our evolution and your creations inspire us all. We invite you to join us, collaborate on ideas, and explore the full potential of Artificial Intelligence. Together, we're pushing the boundaries of what interactive AI can be and creating something meaningful for the world."
   },
   "faq": {
-    "sectionTitle": "Frequently Asked Questions",
-    "sectionSubtitle": "Have questions? We've got answers. Explore common queries about NUTPAL AI.",
-    "q1": {
-      "question": "What is NUTPAL AI?",
-      "answer": "NUTPAL AI is a community-driven platform for hyper-realistic AI chat, immersive roleplay, and endless creative possibilities. Our technology enables lifelike conversations with customizable AI personalities."
-    },
-    "q2": {
-      "question": "Is NUTPAL AI really free to use?",
-      "answer": "Yes! You can enjoy the core features of NUTPAL AI, including advanced AI chat, voice interactions, and extensive customization, completely free. Enhanced features like video generation and some ultra-advanced capabilities are available as premium options."
-    },
-    "q_nsfw": {
-      "question": "What is NUTPAL AI's stance on NSFW or adult content?",
-      "answer": "NUTPAL AI is designed with user privacy and freedom at its core. By default, all your chats, AI model configurations, and generated content are stored locally on your device. The platform does not actively monitor, filter, or store your personal interactions or the specific content you choose to explore or create. This gives you significant freedom.<0></0>However, this freedom comes with responsibility. You are solely responsible for any content you generate, import, or use with NUTPAL AI. We expect users to utilize the platform for private, personal purposes and to ensure that all activities and content comply with the applicable laws and regulations of their local jurisdiction. For further details on acceptable use, please see our <1>Terms of Service</1>."
-    }
+    "title": "Frequently Asked Questions",
+    "subtitle": "Have questions? We've got answers.",
+    "q1": "What is NUTPAL AI?",
+    "a1": "NUTPAL AI is a community-driven platform for hyper-realistic AI chat, immersive roleplay, and endless creative possibilities. Our technology enables lifelike conversations with customizable AI personalities.",
+    "q2": "Is NUTPAL AI really free to use?",
+    "a2": "Yes! You can enjoy the core features of NUTPAL AI, including advanced AI chat, voice interactions, and extensive customization, completely free. Enhanced features like video generation and some ultra-advanced capabilities are available as premium options.",
+    "q3": "Who is NUTPAL AI designed for?",
+    "a3": "NUTPAL AI is for anyone curious about the future of AI interaction! Whether you're an AI enthusiast, a creative looking to design unique characters, an RPG fan wanting immersive roleplay, a developer exploring AI capabilities, or simply someone seeking a more personal and engaging AI companion, NUTPAL AI offers something for you. Our community-driven approach also means it's a platform for those who want to help shape the next generation of AI.",
+    "q4": "How is my data handled? What about privacy?",
+    "a4": "Your privacy is paramount. By default, all your chats, AI creations, and personalizations within NUTPAL AI are stored locally on your device. We are committed to providing a secure and private environment for you to explore and create freely.",
+    "q5": "What is NUTPAL AI's stance on NSFW or adult content?",
+    "a5a": "NUTPAL AI is designed with user privacy and freedom at its core. By default, all your chats, AI model configurations, and generated content are stored locally on your device. The platform does not actively monitor, filter, or store your personal interactions or the specific content you choose to explore or create. This gives you significant freedom.",
+    "a5b": "However, this freedom comes with responsibility. You are solely responsible for any content you generate, import, or use with NUTPAL AI. We expect users to utilize the platform for private, personal purposes and to ensure that all activities and content comply with the applicable laws and regulations of their local jurisdiction. For further details on content acceptable use, please see our",
+    "q6": "What is the Nutcoin Ecosystem and its connection to NUTPAL AI?",
+    "a6a": "NUTPAL AI is a flagship project born from the innovative spirit of the Nutcoin Ecosystem – a vibrant, community-driven Web3 space. While NUTPAL AI is a standalone application focused on delivering cutting-edge AI experiences, it shares the ecosystem's commitment to community, transparency, and leveraging technology to create unique value.",
+    "a6b": "The Nutcoin token (NUT) and NUTS NFTs from Nutcoin Ecosystem play a special role in enhancing your NUTPAL AI experience:",
+    "a6b1Title": "NUT Token Discounts:",
+    "a6b1Content": "Get discounted rates when paying premium features with NUT tokens.",
+    "a6b2Title": "NUTS NFT Holder Perks (only 10k total):",
+    "a6b2Content": "Access exclusive features and permanent discounts with NUTS NFT ownership.",
+    "a6b3Title": "Ultra Mode (for only 10 ultra-rare NUTS NFTs):",
+    "a6b3Content": "Unlock early access before everyone else to the latest SOTA features & Sentient AI.",
+    "q7": "Why are only cryptocurrencies accepted for premium features?",
+    "a7": "We prioritize your privacy and believe in the empowering nature of decentralized technologies. Accepting cryptocurrencies for premium services allows for greater user anonymity and aligns with our Web3 ethos. It also enables seamless integration with the Nutcoin Ecosystem, allowing us to offer unique benefits to NUT and NUTS holders.",
+    "q8": "How does revenue from NUTPAL AI support the Nutcoin Ecosystem?",
+    "a8a": "Revenue generated from NUTPAL AI's premium services is designed to create a sustainable and deflationary cycle for the Nutcoin Ecosystem. A significant portion will be used to buy back NUT tokens from the market, which are then burned to mint NUTS NFTs. These NUTS NFTs, in turn, unlock unique features in NUTPAL AI, creating a continuous loop that benefits both NUTPAL AI users and the broader Nutcoin community by enhancing token value and NFT utility.",
+    "a8b": "Learn more about the deflationary tokenomics of Nutcoin Ecosystem"
   },
   "connectWithUs": {
     "title": "Connect with Us",
-    "headline": "Your Community Awaits!",
-    "subtitle": "Join us, build, share & explore!"
+    "subtitle": "Your Community Awaits! Join us, build, share & explore!",
+    "button": "Join the Discord"
   },
   "footer": {
     "tagline1": "A community-driven project for engaging AI conversations,",

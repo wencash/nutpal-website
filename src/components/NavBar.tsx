@@ -1,14 +1,15 @@
 import { useEffect, useState } from "react";
+import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import { twJoin } from "tailwind-merge";
 import { close, logo, menu } from "../assets";
 import { Button } from "./Button";
 import { LanguageSwitcher } from "./LanguageSwitcher";
-import { handleScrollToTop } from "./ScrollToTop";
 
 export const NavBar = () => {
 	const [toggle, setToggle] = useState(false);
 	const [showNavBarBackground, setShowNavBarBackground] = useState(false);
+	const { t } = useTranslation();
 
 	useEffect(() => {
 		const handleScroll = () => {
@@ -31,7 +32,7 @@ export const NavBar = () => {
 				showNavBarBackground ? "backdrop-blur-3xl" : "bg-transparent",
 			)}
 		>
-			<Link to="/" onClick={() => handleScrollToTop("instant")}>
+			<Link to="/">
 				<div className="flex items-center">
 					<img
 						src={logo}
@@ -47,7 +48,11 @@ export const NavBar = () => {
 			<div className="flex items-center gap-4">
 				{/* Desktop "Launch App" Button */}
 				<div className="group hidden md:flex">
-					<Link target="_blank" to={"https://nutpal.netlify.app"}>
+					<Link
+						target="_blank"
+						rel="noopener noreferrer"
+						to={"https://nutpal.netlify.app"}
+					>
 						<Button
 							schema="primary"
 							type="button"
@@ -56,7 +61,7 @@ export const NavBar = () => {
 							{/* The effect div - scaled down for NavBar */}
 							<div className="absolute inset-0 m-auto h-20 w-20 rounded-full bg-ga-orangenut-default/30 blur-xl transition-all duration-1000 ease-in-out group-hover:-rotate-45 group-hover:scale-y-150 group-hover:blur-lg" />
 							{/* Button Text - ensure it's above the effect div if stacking context issues arise */}
-							<span className="relative z-10">Launch App</span>
+							<span className="relative z-10">{t("launchApp")}</span>
 						</Button>
 					</Link>
 				</div>
@@ -80,8 +85,12 @@ export const NavBar = () => {
 				>
 					<ul className="flex flex-1 list-none flex-col items-start justify-end gap-4">
 						<li>
-							<Link target="_blank" to="https://nutpal.netlify.app">
-								Launch App
+							<Link
+								target="_blank"
+								rel="noopener noreferrer"
+								to="https://nutpal.netlify.app"
+							>
+								{t("launchApp")}
 							</Link>
 						</li>
 						<li>

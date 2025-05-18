@@ -1,13 +1,9 @@
+import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import { Button } from "../../../components/Button";
 
 export const NotFound = () => {
-	const handleScrollToTop = () => {
-		window.scrollTo({
-			top: 0,
-			behavior: "smooth",
-		});
-	};
+	const { t } = useTranslation();
 
 	return (
 		<section className="relative mx-auto h-screen w-full">
@@ -23,17 +19,17 @@ export const NotFound = () => {
 						404<span className="text-ga-blue"></span>
 					</h1>
 					<p className={`heroSubText mt-2 text-ga-white-darker`}>
-						We couldn't find that page.
+						{t("pageNotFound")}
 					</p>
 					<div className={`heroSubText mt-2 text-ga-white-default`}>
-						<Link to="/" className="cursor-pointer" onClick={handleScrollToTop}>
+						<Link to="/" className="cursor-pointer">
 							<Button
 								schema="primary"
 								type="button"
 								classes="text-lg font-medium md:px-12 md:py-3 rounded-2xl flex flex-row gap-2 relative"
 							>
 								<div className="absolute h-80 w-80 rounded-full bg-ga-orangenut-default/30 blur-3xl transition-all duration-1000 ease-in-out group-hover:-rotate-45 group-hover:scale-y-150 group-hover:blur-2xl" />
-								Back Home
+								{t("backHome")}
 							</Button>
 						</Link>
 					</div>
