@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { LocalizedLink } from "../../../components/LocalizedLink";
 import { TermSection } from "./TermSection";
 
 export const TermsOfServiceInfo = () => {
@@ -158,10 +158,14 @@ export const TermsOfServiceInfo = () => {
 						level={2}
 						content="10.1. Please go to the link below to read our Privacy Policy:"
 					>
-						<Link to="/privacy" onClick={handleScrollToTop}>
+						<LocalizedLink
+							to="/privacy"
+							onClick={handleScrollToTop}
+							className="text-ga-orangenut-default hover:underline"
+						>
 							{" "}
 							Privacy Policy
-						</Link>
+						</LocalizedLink>
 					</TermSection>
 				</TermSection>
 
