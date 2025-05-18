@@ -3,6 +3,7 @@ import { twJoin } from "tailwind-merge";
 
 export function LandingSection(props: {
 	title: string;
+	subtitle?: string;
 	content: string;
 	align: "left" | "right";
 	children?: React.ReactNode;
@@ -46,6 +47,7 @@ export function LandingSection(props: {
 								props.align == "left" ? "text-start" : "text-end",
 							)}
 						>
+							<span className="font-bold">{props.subtitle}</span>{" "}
 							{props.content}
 						</p>
 					</section>

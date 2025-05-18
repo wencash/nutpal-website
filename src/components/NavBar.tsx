@@ -1,9 +1,9 @@
-// src/components/NavBar.tsx
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { twJoin } from "tailwind-merge"; // Ensure twJoin is imported if not already
+import { twJoin } from "tailwind-merge";
 import { close, logo, menu } from "../assets";
 import { Button } from "./Button";
+import { LanguageSwitcher } from "./LanguageSwitcher";
 import { handleScrollToTop } from "./ScrollToTop";
 
 export const NavBar = () => {
@@ -44,21 +44,25 @@ export const NavBar = () => {
 				</div>
 			</Link>
 
-			{/* Desktop "Launch App" Button */}
-			<div className="group hidden md:flex">
-				{/* Added 'group' class here */}
-				<Link target="_blank" to={"https://nutpal.netlify.app"}>
-					<Button
-						schema="primary"
-						type="button"
-						classes="h-10 rounded-full px-5 text-ga-white-default text-sm font-medium mr-3 relative overflow-hidden" // Added relative, overflow-hidden and adjusted classes
-					>
-						{/* The effect div - scaled down for NavBar */}
-						<div className="absolute inset-0 m-auto h-20 w-20 rounded-full bg-ga-orangenut-default/30 blur-xl transition-all duration-1000 ease-in-out group-hover:-rotate-45 group-hover:scale-y-150 group-hover:blur-lg" />
-						{/* Button Text - ensure it's above the effect div if stacking context issues arise */}
-						<span className="relative z-10">Launch App</span>
-					</Button>
-				</Link>
+			<div className="flex items-center gap-4">
+				{/* Desktop "Launch App" Button */}
+				<div className="group hidden md:flex">
+					<Link target="_blank" to={"https://nutpal.netlify.app"}>
+						<Button
+							schema="primary"
+							type="button"
+							classes="h-10 rounded-full px-4 text-ga-white-default text-sm font-medium relative overflow-hidden" // Added relative, overflow-hidden and adjusted classes
+						>
+							{/* The effect div - scaled down for NavBar */}
+							<div className="absolute inset-0 m-auto h-20 w-20 rounded-full bg-ga-orangenut-default/30 blur-xl transition-all duration-1000 ease-in-out group-hover:-rotate-45 group-hover:scale-y-150 group-hover:blur-lg" />
+							{/* Button Text - ensure it's above the effect div if stacking context issues arise */}
+							<span className="relative z-10">Launch App</span>
+						</Button>
+					</Link>
+				</div>
+				<div className="group hidden md:flex">
+					<LanguageSwitcher />
+				</div>
 			</div>
 
 			{/* Mobile Menu */}
@@ -79,6 +83,9 @@ export const NavBar = () => {
 							<Link target="_blank" to="https://nutpal.netlify.app">
 								Launch App
 							</Link>
+						</li>
+						<li>
+							<LanguageSwitcher />
 						</li>
 					</ul>
 				</div>

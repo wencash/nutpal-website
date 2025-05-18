@@ -44,7 +44,7 @@
 @layer components {
 	/* for firefox. */
 	.scrollbar {
-		scrollbar-color: rgb(152 64 160) transparent;
+		scrollbar-color: #ff9e66 #0d1017;
 		scrollbar-width: thin;
 	}
 
