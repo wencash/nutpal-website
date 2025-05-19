@@ -1,0 +1,91 @@
+{
+  "launchApp": "Luncurkan Aplikasi",
+  "backHome": "Kembali ke Beranda",
+  "pageNotFound": "Halaman tidak ditemukan.",
+  "hero": {
+    "subHeading1": "Proyek berbasis komunitas untuk",
+    "subHeading2": "obrolan AI yang menarik, permainan peran kreatif",
+    "subHeading3": "dan segala sesuatu di antaranya."
+  },
+  "keyFeatures": {
+    "title": "Buka Kekuatan AI yang Sesungguhnya Pribadi",
+    "subtitle1": "Temukan kemampuan inti yang menjadikan NUTPAL AI",
+    "subtitle2": "pengalaman kreatif yang unik, jauh melampaui chatbot tradisional.",
+    "feature1": {
+      "title": "AI yang Hidup Kembali",
+      "description": "Rasakan AI dengan kepribadian kaya yang memahami konteks luas, merasakan emosi yang sangat bernuansa, mendengar suara Anda, melihat dunia Anda, dan mengingat setiap interaksi."
+    },
+    "feature2": {
+      "title": "Kustomisasi Tanpa Batas",
+      "description": "Bentuk AI ideal Anda: padukan kepribadian unik, suara, visual, dan animasi real-time dengan mulus. Privasi utama: secara default, semua obrolan dan kreasi Anda disimpan secara lokal di perangkat Anda."
+    },
+    "feature3": {
+      "title": "Komunikasi Suara Sejernih Kristal",
+      "description": "Dengarkan AI Anda berbicara dengan suara alami dan ekspresif. Terlibat dalam percakapan yang lancar dan menawan dengan audio fidelitas tinggi yang benar-benar membenamkan Anda."
+    },
+    "feature4": {
+      "title": "Dunia Visual & Cerita Interaktif",
+      "description": "Saksikan AI Anda dan lingkungan dinamis mereka dengan pembuatan gambar & video real-time mutakhir. Bahkan mulai obrolan grup antara AI independen, merintis era baru film AI interaktif langsung."
+    }
+  },
+  "aboutUs": {
+    "title": "Tentang Kami",
+    "subtitle": "Temui NUTPAL AI: Tempat Inovasi Bertemu Imajinasi.",
+    "content": "Bukan hanya membangun AI tetapi membangun sesuatu yang bisa Anda rasakan. Didukung oleh komunitas, dibangun untuk kreativitas. Kami adalah kolektif perintis AI dan Web3, dipersatukan oleh semangat untuk membangun pengalaman cerdas yang memberdayakan dan menginspirasi. Didorong oleh pendekatan transparan yang mengutamakan komunitas, NUTPAL AI lahir dari mimpi bersama: menciptakan platform tempat AI canggih bertemu kreativitas hingga tak terbatas."
+  },
+  "ourMission": {
+    "title": "Misi Kami",
+    "subtitle": "Ciptakan. Sesuaikan. Hubungkan. AI Anda, Semesta Anda.",
+    "content": "Bagaimana jika AI bisa lebih dari sekadar teks? Mengapa hanya mengobrol ketika Anda bisa berkreasi? NUTPAL AI menempatkan Anda di kursi sutradara. Rancang pendamping AI dengan kepribadian yang benar-benar unik, pilih dari spektrum suara realistis yang terus berkembang, dan hidupkan mereka dengan gambar yang dihasilkan AI dan bahkan interaksi video. Misi kami adalah memberikan kekuatan ini dengan mulus – tanpa pengaturan yang rumit, tanpa perangkat keras yang mahal, hanya kebebasan kreatif murni. Kami percaya AI yang kuat harus tersedia untuk semua orang, di mana saja."
+  },
+  "communityDriven": {
+    "title": "Digerakkan oleh Komunitas",
+    "subtitle": "NUTPAL AI adalah platform yang hidup dan bernapas, diciptakan bersama Anda.",
+    "content": "Kami membangun ekosistem yang dinamis tempat para penggemar, pengembang, seniman, dan pemain peran berkumpul untuk berbagi, belajar, dan berinovasi. Umpan balik Anda secara langsung memengaruhi evolusi kami dan kreasi Anda menginspirasi kami semua. Kami mengundang Anda untuk bergabung dengan kami, berkolaborasi dalam ide, dan menjelajahi potensi penuh Kecerdasan Buatan. Bersama-sama, kita mendorong batas-batas dari apa yang bisa menjadi AI interaktif dan menciptakan sesuatu yang bermakna bagi dunia."
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "subtitle": "Punya pertanyaan? Kami punya jawabannya.",
+    "q1": "Apa itu NUTPAL AI?",
+    "a1": "NUTPAL AI adalah platform berbasis komunitas untuk obrolan AI hiper-realistis, permainan peran imersif, dan kemungkinan kreatif tanpa akhir. Teknologi kami memungkinkan percakapan seperti aslinya dengan kepribadian AI yang dapat disesuaikan.",
+    "q2": "Apakah NUTPAL AI benar-benar gratis untuk digunakan?",
+    "a2": "Ya! Anda dapat menikmati fitur inti NUTPAL AI, termasuk obrolan AI canggih, interaksi suara, dan kustomisasi ekstensif, sepenuhnya gratis. Fitur yang disempurnakan seperti pembuatan video dan beberapa kemampuan ultra-canggih tersedia sebagai opsi premium.",
+    "q3": "Untuk siapa NUTPAL AI dirancang?",
+    "a3": "NUTPAL AI adalah untuk siapa saja yang ingin tahu tentang masa depan interaksi AI! Baik Anda penggemar AI, seorang kreatif yang ingin merancang karakter unik, penggemar RPG yang menginginkan permainan peran imersif, pengembang yang menjelajahi kemampuan AI, atau hanya seseorang yang mencari pendamping AI yang lebih pribadi dan menarik, NUTPAL AI menawarkan sesuatu untuk Anda. Pendekatan berbasis komunitas kami juga berarti ini adalah platform bagi mereka yang ingin membantu membentuk generasi AI berikutnya.",
+    "q4": "Bagaimana data saya ditangani? Bagaimana dengan privasi?",
+    "a4": "Privasi Anda adalah yang terpenting. Secara default, semua obrolan, kreasi AI, dan personalisasi Anda dalam NUTPAL AI disimpan secara lokal di perangkat Anda. Kami berkomitmen untuk menyediakan lingkungan yang aman dan pribadi bagi Anda untuk menjelajah dan berkreasi dengan bebas.",
+    "q5": "Apa sikap NUTPAL AI terhadap konten NSFW atau dewasa?",
+    "a5a": "NUTPAL AI dirancang dengan privasi dan kebebasan pengguna sebagai intinya. Secara default, semua obrolan, konfigurasi model AI, dan konten yang dihasilkan disimpan secara lokal di perangkat Anda. Platform ini tidak secara aktif memantau, memfilter, atau menyimpan interaksi pribadi Anda atau konten spesifik yang Anda pilih untuk dijelajahi atau dibuat. Ini memberi Anda kebebasan yang signifikan.",
+    "a5b": "Namun, kebebasan ini disertai dengan tanggung jawab. Anda sepenuhnya bertanggung jawab atas konten apa pun yang Anda hasilkan, impor, atau gunakan dengan NUTPAL AI. Kami mengharapkan pengguna untuk memanfaatkan platform untuk tujuan pribadi dan memastikan bahwa semua aktivitas dan konten mematuhi hukum dan peraturan yang berlaku di yurisdiksi lokal mereka. Untuk detail lebih lanjut tentang penggunaan konten yang dapat diterima, silakan lihat",
+    "q6": "Apa itu Ekosistem Nutcoin dan hubungannya dengan NUTPAL AI?",
+    "a6a": "NUTPAL AI adalah proyek unggulan yang lahir dari semangat inovatif Ekosistem Nutcoin – ruang Web3 yang dinamis dan digerakkan oleh komunitas. Meskipun NUTPAL AI adalah aplikasi mandiri yang berfokus pada penyampaian pengalaman AI mutakhir, ia berbagi komitmen ekosistem terhadap komunitas, transparansi, dan pemanfaatan teknologi untuk menciptakan nilai unik.",
+    "a6b": "Token Nutcoin (NUT) dan NUTS NFT dari Ekosistem Nutcoin memainkan peran khusus dalam meningkatkan pengalaman NUTPAL AI Anda:",
+    "a6b1Title": "Diskon Token NUT:",
+    "a6b1Content": "Dapatkan tarif diskon saat membayar fitur premium dengan token NUT.",
+    "a6b2Title": "Keuntungan Pemegang NUTS NFT (total hanya 10rb):",
+    "a6b2Content": "Akses fitur eksklusif dan diskon permanen dengan kepemilikan NUTS NFT.",
+    "a6b3Title": "Mode Ultra (hanya untuk 10 NUTS NFT ultra-langka):",
+    "a6b3Content": "Buka akses awal sebelum orang lain ke fitur SOTA terbaru & AI Berkesadaran.",
+    "q7": "Mengapa hanya mata uang kripto yang diterima untuk fitur premium?",
+    "a7": "Kami memprioritaskan privasi Anda dan percaya pada sifat pemberdayaan teknologi terdesentralisasi. Menerima mata uang kripto untuk layanan premium memungkinkan anonimitas pengguna yang lebih besar dan selaras dengan etos Web3 kami. Ini juga memungkinkan integrasi tanpa batas dengan Ekosistem Nutcoin, memungkinkan kami menawarkan manfaat unik bagi pemegang NUT dan NUTS.",
+    "q8": "Bagaimana pendapatan dari NUTPAL AI mendukung Ekosistem Nutcoin?",
+    "a8a": "Pendapatan yang dihasilkan dari layanan premium NUTPAL AI dirancang untuk menciptakan siklus yang berkelanjutan dan deflasi untuk Ekosistem Nutcoin. Sebagian besar akan digunakan untuk membeli kembali token NUT dari pasar, yang kemudian dibakar untuk mencetak NUTS NFT. NUTS NFT ini, pada gilirannya, membuka fitur unik di NUTPAL AI, menciptakan lingkaran berkelanjutan yang menguntungkan pengguna NUTPAL AI dan komunitas Nutcoin yang lebih luas dengan meningkatkan nilai token dan utilitas NFT.",
+    "a8b": "Pelajari lebih lanjut tentang tokenomik deflasi Ekosistem Nutcoin"
+  },
+  "connectWithUs": {
+    "title": "Terhubung dengan Kami",
+    "subtitle": "Komunitas Anda Menanti! Bergabunglah dengan kami, bangun, bagikan & jelajahi!",
+    "button": "Bergabung dengan Discord"
+  },
+  "footer": {
+    "tagline1": "Proyek berbasis komunitas untuk percakapan AI yang menarik,",
+    "tagline2": "dari permainan peran hingga obrolan umum & lebih jauh lagi.",
+    "copyright": "Hak Cipta {{year}} - NUTPAL AI. Semua hak dilindungi undang-undang.",
+    "projectTitle": "Proyek",
+    "privacyLinkText": "Kebijakan Privasi",
+    "termsLinkText": "Ketentuan Layanan",
+    "connectTitle": "Terhubung",
+    "discordLinkText": "Discord",
+    "twitterLinkText": "X (Twitter)"
+  }
+}

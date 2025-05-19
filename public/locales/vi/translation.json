@@ -1,0 +1,91 @@
+{
+  "launchApp": "Khởi chạy Ứng dụng",
+  "backHome": "Trở về Trang chủ",
+  "pageNotFound": "Chúng tôi không tìm thấy trang này.",
+  "hero": {
+    "subHeading1": "Một dự án do cộng đồng định hướng cho",
+    "subHeading2": "cuộc trò chuyện AI hấp dẫn, nhập vai sáng tạo",
+    "subHeading3": "và mọi thứ ở giữa."
+  },
+  "keyFeatures": {
+    "title": "Mở khóa Sức mạnh của AI Thực sự Cá nhân",
+    "subtitle1": "Khám phá các khả năng cốt lõi tạo nên NUTPAL AI",
+    "subtitle2": "một trải nghiệm sáng tạo độc đáo, vượt xa các chatbot truyền thống.",
+    "feature1": {
+      "title": "AI Trở nên Sống động",
+      "description": "Trải nghiệm AI với cá tính phong phú, hiểu được bối cảnh rộng lớn, cảm nhận những cảm xúc tinh tế sâu sắc, nghe thấy giọng nói của bạn, nhìn thấy thế giới của bạn và ghi nhớ mọi tương tác."
+    },
+    "feature2": {
+      "title": "Tùy chỉnh Không giới hạn",
+      "description": "Tạo dựng AI lý tưởng của bạn: kết hợp liền mạch cá tính độc đáo, giọng nói, hình ảnh và hoạt ảnh thời gian thực. Ưu tiên quyền riêng tư: theo mặc định, tất cả các cuộc trò chuyện và sáng tạo của bạn được lưu cục bộ trên thiết bị của bạn."
+    },
+    "feature3": {
+      "title": "Giao tiếp bằng Giọng nói Rõ ràng",
+      "description": "Lắng nghe AI của bạn nói bằng giọng nói tự nhiên, biểu cảm. Tham gia vào các cuộc trò chuyện trôi chảy, hấp dẫn với âm thanh độ trung thực cao thực sự khiến bạn đắm chìm."
+    },
+    "feature4": {
+      "title": "Thế giới Hình ảnh và Câu chuyện Tương tác",
+      "description": "Xem AI của bạn và môi trường năng động của chúng với khả năng tạo hình ảnh và video thời gian thực tiên tiến. Thậm chí bắt đầu các cuộc trò chuyện nhóm giữa các AI độc lập, tiên phong một kỷ nguyên mới của phim AI tương tác trực tiếp."
+    }
+  },
+  "aboutUs": {
+    "title": "Về chúng tôi",
+    "subtitle": "Gặp gỡ NUTPAL AI: Nơi Sáng tạo Gặp gỡ Trí tưởng tượng.",
+    "content": "Không chỉ xây dựng AI mà còn xây dựng một thứ gì đó bạn có thể cảm nhận. Được hỗ trợ bởi cộng đồng, được xây dựng cho sự sáng tạo. Chúng tôi là một tập thể gồm những người tiên phong về AI và Web3, đoàn kết bởi niềm đam mê xây dựng những trải nghiệm thông minh nhằm trao quyền và truyền cảm hứng. Được thúc đẩy bởi một cách tiếp cận minh bạch, ưu tiên cộng đồng, NUTPAL AI ra đời từ một giấc mơ chung: tạo ra một nền tảng nơi AI tiên tiến gặp gỡ sự sáng tạo vô hạn."
+  },
+  "ourMission": {
+    "title": "Sứ mệnh của chúng tôi",
+    "subtitle": "Sáng tạo. Tùy chỉnh. Kết nối. AI của bạn, Vũ trụ của bạn.",
+    "content": "Sẽ thế nào nếu AI không chỉ là văn bản? Tại sao chỉ trò chuyện khi bạn có thể sáng tạo? NUTPAL AI đặt bạn vào vị trí đạo diễn. Thiết kế những người bạn đồng hành AI với những cá tính thực sự độc đáo, chọn từ một phổ giọng nói thực tế không ngừng phát triển, và làm cho chúng trở nên sống động bằng hình ảnh do AI tạo ra và thậm chí cả các tương tác video. Sứ mệnh của chúng tôi là cung cấp sức mạnh này một cách liền mạch – không cần cài đặt phức tạp, không cần phần cứng đắt tiền, chỉ có sự tự do sáng tạo thuần túy. Chúng tôi tin rằng AI mạnh mẽ nên có sẵn cho tất cả mọi người, ở mọi nơi."
+  },
+  "communityDriven": {
+    "title": "Định hướng bởi Cộng đồng",
+    "subtitle": "NUTPAL AI là một nền tảng sống động, cùng bạn kiến tạo.",
+    "content": "Chúng tôi đang xây dựng một hệ sinh thái sôi động, nơi những người đam mê, nhà phát triển, nghệ sĩ và người chơi nhập vai hội tụ để chia sẻ, học hỏi và đổi mới. Phản hồi của bạn ảnh hưởng trực tiếp đến sự phát triển của chúng tôi và những sáng tạo của bạn truyền cảm hứng cho tất cả chúng tôi. Chúng tôi mời bạn tham gia cùng chúng tôi, hợp tác ý tưởng và khám phá toàn bộ tiềm năng của Trí tuệ Nhân tạo. Cùng nhau, chúng ta đang vượt qua ranh giới của những gì AI tương tác có thể làm được và tạo ra điều gì đó có ý nghĩa cho thế giới."
+  },
+  "faq": {
+    "title": "Câu hỏi Thường gặp",
+    "subtitle": "Có câu hỏi? Chúng tôi có câu trả lời.",
+    "q1": "NUTPAL AI là gì?",
+    "a1": "NUTPAL AI là một nền tảng do cộng đồng định hướng dành cho trò chuyện AI siêu thực, nhập vai sâu sắc và khả năng sáng tạo vô tận. Công nghệ của chúng tôi cho phép các cuộc trò chuyện sống động như thật với các cá tính AI có thể tùy chỉnh.",
+    "q2": "NUTPAL AI có thực sự miễn phí để sử dụng không?",
+    "a2": "Có! Bạn có thể tận hưởng các tính năng cốt lõi của NUTPAL AI, bao gồm trò chuyện AI nâng cao, tương tác bằng giọng nói và tùy chỉnh rộng rãi, hoàn toàn miễn phí. Các tính năng nâng cao như tạo video và một số khả năng siêu tiên tiến có sẵn dưới dạng tùy chọn cao cấp.",
+    "q3": "NUTPAL AI được thiết kế cho ai?",
+    "a3": "NUTPAL AI dành cho bất kỳ ai tò mò về tương lai của tương tác AI! Cho dù bạn là người đam mê AI, một nhà sáng tạo muốn thiết kế các nhân vật độc đáo, một người hâm mộ RPG muốn nhập vai sâu sắc, một nhà phát triển khám phá khả năng của AI, hay đơn giản là một người đang tìm kiếm một người bạn đồng hành AI cá nhân và hấp dẫn hơn, NUTPAL AI đều có thứ gì đó dành cho bạn. Cách tiếp cận do cộng đồng định hướng của chúng tôi cũng có nghĩa là đây là một nền tảng dành cho những người muốn giúp định hình thế hệ AI tiếp theo.",
+    "q4": "Dữ liệu của tôi được xử lý như thế nào? Còn về quyền riêng tư thì sao?",
+    "a4": "Quyền riêng tư của bạn là tối quan trọng. Theo mặc định, tất cả các cuộc trò chuyện, sáng tạo AI và cá nhân hóa của bạn trong NUTPAL AI được lưu trữ cục bộ trên thiết bị của bạn. Chúng tôi cam kết cung cấp một môi trường an toàn và riêng tư để bạn tự do khám phá và sáng tạo.",
+    "q5": "Quan điểm của NUTPAL AI về nội dung NSFW hoặc nội dung người lớn là gì?",
+    "a5a": "NUTPAL AI được thiết kế với quyền riêng tư và tự do của người dùng làm cốt lõi. Theo mặc định, tất cả các cuộc trò chuyện, cấu hình mô hình AI và nội dung được tạo của bạn đều được lưu trữ cục bộ trên thiết bị của bạn. Nền tảng không chủ động theo dõi, lọc hoặc lưu trữ các tương tác cá nhân của bạn hoặc nội dung cụ thể mà bạn chọn khám phá hoặc tạo. Điều này mang lại cho bạn sự tự do đáng kể.",
+    "a5b": "Tuy nhiên, sự tự do này đi kèm với trách nhiệm. Bạn hoàn toàn chịu trách nhiệm về bất kỳ nội dung nào bạn tạo, nhập hoặc sử dụng với NUTPAL AI. Chúng tôi mong đợi người dùng sử dụng nền tảng cho các mục đích cá nhân, riêng tư và đảm bảo rằng tất cả các hoạt động và nội dung tuân thủ luật pháp và quy định hiện hành của khu vực pháp lý địa phương của họ. Để biết thêm chi tiết về việc sử dụng nội dung được chấp nhận, vui lòng xem",
+    "q6": "Hệ sinh thái Nutcoin là gì và mối liên hệ của nó với NUTPAL AI như thế nào?",
+    "a6a": "NUTPAL AI là một dự án hàng đầu được sinh ra từ tinh thần đổi mới của Hệ sinh thái Nutcoin – một không gian Web3 sôi động, do cộng đồng định hướng. Mặc dù NUTPAL AI là một ứng dụng độc lập tập trung vào việc cung cấp các trải nghiệm AI tiên tiến, nó chia sẻ cam kết của hệ sinh thái đối với cộng đồng, tính minh bạch và việc tận dụng công nghệ để tạo ra giá trị độc đáo.",
+    "a6b": "Token Nutcoin (NUT) và NUTS NFT từ Hệ sinh thái Nutcoin đóng một vai trò đặc biệt trong việc nâng cao trải nghiệm NUTPAL AI của bạn:",
+    "a6b1Title": "Giảm giá bằng Token NUT:",
+    "a6b1Content": "Nhận mức giá chiết khấu khi thanh toán các tính năng cao cấp bằng token NUT.",
+    "a6b2Title": "Đặc quyền của người sở hữu NUTS NFT (chỉ có tổng cộng 10 nghìn):",
+    "a6b2Content": "Truy cập các tính năng độc quyền và giảm giá vĩnh viễn khi sở hữu NUTS NFT.",
+    "a6b3Title": "Chế độ Ultra (chỉ dành cho 10 NUTS NFT siêu hiếm):",
+    "a6b3Content": "Mở khóa quyền truy cập sớm trước bất kỳ ai khác vào các tính năng SOTA mới nhất & AI có tri giác.",
+    "q7": "Tại sao chỉ chấp nhận tiền điện tử cho các tính năng cao cấp?",
+    "a7": "Chúng tôi ưu tiên quyền riêng tư của bạn và tin tưởng vào bản chất trao quyền của các công nghệ phi tập trung. Việc chấp nhận tiền điện tử cho các dịch vụ cao cấp cho phép người dùng ẩn danh tốt hơn và phù hợp với đặc tính Web3 của chúng tôi. Nó cũng cho phép tích hợp liền mạch với Hệ sinh thái Nutcoin, cho phép chúng tôi cung cấp các lợi ích độc đáo cho những người nắm giữ NUT và NUTS.",
+    "q8": "Doanh thu từ NUTPAL AI hỗ trợ Hệ sinh thái Nutcoin như thế nào?",
+    "a8a": "Doanh thu được tạo ra từ các dịch vụ cao cấp của NUTPAL AI được thiết kế để tạo ra một chu kỳ bền vững và giảm phát cho Hệ sinh thái Nutcoin. Một phần đáng kể sẽ được sử dụng để mua lại token NUT từ thị trường, sau đó được đốt để tạo ra NUTS NFT. Những NUTS NFT này, lần lượt, mở khóa các tính năng độc đáo trong NUTPAL AI, tạo ra một vòng lặp liên tục mang lại lợi ích cho cả người dùng NUTPAL AI và cộng đồng Nutcoin rộng lớn hơn bằng cách nâng cao giá trị token và tiện ích NFT.",
+    "a8b": "Tìm hiểu thêm về kinh tế học token giảm phát của Hệ sinh thái Nutcoin"
+  },
+  "connectWithUs": {
+    "title": "Kết nối với chúng tôi",
+    "subtitle": "Cộng đồng của bạn đang chờ đợi! Tham gia cùng chúng tôi, xây dựng, chia sẻ và khám phá!",
+    "button": "Tham gia Discord"
+  },
+  "footer": {
+    "tagline1": "Một dự án do cộng đồng định hướng cho các cuộc trò chuyện AI hấp dẫn,",
+    "tagline2": "từ nhập vai đến trò chuyện chung và hơn thế nữa.",
+    "copyright": "Bản quyền © {{year}} - NUTPAL AI. Mọi quyền được bảo lưu.",
+    "projectTitle": "Dự án",
+    "privacyLinkText": "Chính sách Bảo mật",
+    "termsLinkText": "Điều khoản Dịch vụ",
+    "connectTitle": "Kết nối",
+    "discordLinkText": "Discord",
+    "twitterLinkText": "X (Twitter)"
+  }
+}

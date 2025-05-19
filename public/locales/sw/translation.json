@@ -1,0 +1,91 @@
+{
+  "launchApp": "Zindua Programu",
+  "backHome": "Rudi Mwanzo",
+  "pageNotFound": "Hatukuweza kupata ukurasa huo.",
+  "hero": {
+    "subHeading1": "Mradi unaoendeshwa na jamii kwa ajili ya",
+    "subHeading2": "mazungumzo ya AI yenye kuvutia, uigizaji dhima wa ubunifu",
+    "subHeading3": "na kila kitu katikati."
+  },
+  "keyFeatures": {
+    "title": "Fungua Nguvu ya AI ya Kibinafsi Kweli",
+    "subtitle1": "Gundua uwezo mkuu unaoifanya NUTPAL AI kuwa",
+    "subtitle2": "uzoefu wa kipekee wa ubunifu, mbali zaidi ya chatbots za jadi.",
+    "feature1": {
+      "title": "AI Inayoishi",
+      "description": "Pata uzoefu wa AI yenye utu tajiri inayoelewa muktadha mpana, huhisi hisia zenye undani, husikia sauti yako, huona ulimwengu wako, na hukumbuka kila mwingiliano."
+    },
+    "feature2": {
+      "title": "Ugeuzaji Usio na Kikomo",
+      "description": "Unda AI yako bora: changanya kwa urahisi utu wa kipekee, sauti, taswira, na uhuishaji wa wakati halisi. Faragha kwanza: kwa chaguo-msingi, soga na ubunifu wako wote huhifadhiwa ndani ya kifaa chako."
+    },
+    "feature3": {
+      "title": "Mawasiliano ya Sauti Safi Kabisa",
+      "description": "Sikia AI yako ikizungumza kwa sauti za asili na zenye hisia. Shiriki katika mazungumzo laini na ya kuvutia yenye sauti ya hali ya juu inayokuzamisha kweli."
+    },
+    "feature4": {
+      "title": "Ulimwengu wa Kuona na Hadithi Zinazoingiliana",
+      "description": "Tazama AI yako na mazingira yao yanayobadilika kwa kutumia uzalishaji wa picha na video wa kisasa wa wakati halisi. Anzisha hata soga za kikundi kati ya AI huru, ukianzisha enzi mpya ya sinema za AI zinazoingiliana moja kwa moja."
+    }
+  },
+  "aboutUs": {
+    "title": "Kuhusu Sisi",
+    "subtitle": "Kutana na NUTPAL AI: Ambapo Ubunifu Unakutana na Ndoto.",
+    "content": "Si tu kujenga AI bali kujenga kitu unachoweza kuhisi. Inaendeshwa na jamii, imejengwa kwa ubunifu. Sisi ni mkusanyiko wa waanzilishi wa AI na Web3, tulioounganishwa na shauku ya kujenga uzoefu wa akili unaowezesha na kuhamasisha. Tukiongozwa na mbinu ya uwazi, inayotanguliza jamii, NUTPAL AI ilizaliwa kutokana na ndoto ya pamoja: kuunda jukwaa ambapo AI ya hali ya juu inakutana na ubunifu usio na mwisho."
+  },
+  "ourMission": {
+    "title": "Dhamira Yetu",
+    "subtitle": "Unda. Geuza. Unganisha. AI Yako, Ulimwengu Wako.",
+    "content": "Je, ikiwa AI ingeweza kuwa zaidi ya maandishi tu? Kwa nini upige soga tu wakati unaweza kuunda? NUTPAL AI inakuweka kwenye kiti cha mkurugenzi. Buni wenza wa AI wenye haiba za kipekee kabisa, chagua kutoka kwa wigo unaoendelea kubadilika wa sauti halisi, na uwape uhai kwa picha zilizoundwa na AI na hata mwingiliano wa video. Dhamira yetu ni kutoa nguvu hii bila mshono – hakuna usanidi mgumu, hakuna maunzi ya gharama kubwa, uhuru mtupu wa ubunifu. Tunaamini AI yenye nguvu inapaswa kupatikana kwa kila mtu, kila mahali."
+  },
+  "communityDriven": {
+    "title": "Inayoendeshwa na Jamii",
+    "subtitle": "NUTPAL AI ni jukwaa hai, linalopumua, lililoundwa pamoja nawe.",
+    "content": "Tunajenga mfumo-ikolojia mahiri ambapo wapenzi, wasanidi programu, wasanii, na waigizaji dhima hukutana ili kushiriki, kujifunza, na kubuni. Maoni yako yanaathiri moja kwa moja mageuzi yetu na ubunifu wako unatuhamasisha sote. Tunakualika ujiunge nasi, ushirikiane katika mawazo, na ugundue uwezo kamili wa Akili Bandia. Pamoja, tunasukuma mipaka ya kile AI inayoingiliana inaweza kuwa na kuunda kitu chenye maana kwa ulimwengu."
+  },
+  "faq": {
+    "title": "Maswali Yanayoulizwa Mara kwa Mara",
+    "subtitle": "Una maswali? Tuna majibu.",
+    "q1": "NUTPAL AI ni nini?",
+    "a1": "NUTPAL AI ni jukwaa linaloendeshwa na jamii kwa ajili ya soga ya AI ya uhalisia wa hali ya juu, uigizaji dhima unaovutia, na uwezekano wa ubunifu usio na mwisho. Teknolojia yetu inawezesha mazungumzo kama ya maisha halisi na haiba za AI zinazoweza kugeuzwa.",
+    "q2": "Je, NUTPAL AI ni bure kweli kutumia?",
+    "a2": "Ndio! Unaweza kufurahia vipengele vya msingi vya NUTPAL AI, ikiwa ni pamoja na soga ya hali ya juu ya AI, mwingiliano wa sauti, na ugeuzaji mpana, bila malipo kabisa. Vipengele vilivyoboreshwa kama vile uzalishaji wa video na baadhi ya uwezo wa hali ya juu sana vinapatikana kama chaguo za kulipia.",
+    "q3": "NUTPAL AI imeundwa kwa ajili ya nani?",
+    "a3": "NUTPAL AI ni kwa yeyote anayetaka kujua kuhusu mustakabali wa mwingiliano wa AI! Iwe wewe ni mpenda AI, mbunifu anayetaka kubuni wahusika wa kipekee, shabiki wa RPG anayetaka uigizaji dhima unaovutia, msanidi programu anayechunguza uwezo wa AI, au mtu anayetafuta tu mwenzi wa AI wa kibinafsi na anayevutia zaidi, NUTPAL AI inatoa kitu kwa ajili yako. Mbinu yetu inayoendeshwa na jamii pia inamaanisha kuwa ni jukwaa kwa wale wanaotaka kusaidia kuunda kizazi kijacho cha AI.",
+    "q4": "Data yangu inashughulikiwaje? Vipi kuhusu faragha?",
+    "a4": "Faragha yako ni muhimu sana. Kwa chaguo-msingi, soga zako zote, ubunifu wa AI, na ubinafsishaji ndani ya NUTPAL AI huhifadhiwa ndani ya kifaa chako. Tumejitolea kutoa mazingira salama na ya faragha ili uweze kuchunguza na kuunda kwa uhuru.",
+    "q5": "Msimamo wa NUTPAL AI kuhusu maudhui ya NSFW au ya watu wazima ni upi?",
+    "a5a": "NUTPAL AI imeundwa ikiwa na faragha na uhuru wa mtumiaji kama msingi wake. Kwa chaguo-msingi, soga zako zote, usanidi wa modeli za AI, na maudhui yaliyozalishwa huhifadhiwa ndani ya kifaa chako. Jukwaa halifuatilii, halichuji, wala kuhifadhi kikamilifu mwingiliano wako wa kibinafsi au maudhui maalum unayochagua kuchunguza au kuunda. Hii inakupa uhuru mkubwa.",
+    "a5b": "Hata hivyo, uhuru huu unakuja na wajibu. Unawajibika kikamilifu kwa maudhui yoyote unayozalisha, unayoingiza, au unayotumia na NUTPAL AI. Tunatarajia watumiaji watumie jukwaa kwa madhumuni ya kibinafsi na kuhakikisha kuwa shughuli na maudhui yote yanatii sheria na kanuni zinazotumika katika eneo lao. Kwa maelezo zaidi kuhusu matumizi yanayokubalika ya maudhui, tafadhali angalia",
+    "q6": "Mfumo-Ikolojia wa Nutcoin ni nini na uhusiano wake na NUTPAL AI ukoje?",
+    "a6a": "NUTPAL AI ni mradi mkuu uliozaliwa kutokana na roho ya ubunifu ya Mfumo-Ikolojia wa Nutcoin – nafasi ya Web3 iliyo hai na inayoendeshwa na jamii. Ingawa NUTPAL AI ni programu ya kujitegemea inayolenga kutoa uzoefu wa AI wa kisasa, inashiriki dhamira ya mfumo-ikolojia kwa jamii, uwazi, na kutumia teknolojia kuunda thamani ya kipekee.",
+    "a6b": "Tokeni ya Nutcoin (NUT) na NUTS NFTs kutoka Mfumo-Ikolojia wa Nutcoin zina jukumu maalum katika kuboresha uzoefu wako wa NUTPAL AI:",
+    "a6b1Title": "Punguzo la Tokeni ya NUT:",
+    "a6b1Content": "Pata viwango vya punguzo unapolipia vipengele vya kulipia kwa tokeni za NUT.",
+    "a6b2Title": "Manufaa ya Wamiliki wa NUTS NFT (jumla 10k pekee):",
+    "a6b2Content": "Pata vipengele vya kipekee na punguzo la kudumu kwa umiliki wa NUTS NFT.",
+    "a6b3Title": "Hali ya Ultra (kwa NUTS NFTs 10 adimu sana pekee):",
+    "a6b3Content": "Fungua ufikiaji wa mapema kabla ya wengine wote kwa vipengele vya hivi karibuni vya SOTA & AI yenye Hisia.",
+    "q7": "Kwa nini ni sarafu za kidijitali pekee zinazokubaliwa kwa vipengele vya kulipia?",
+    "a7": "Tunatanguliza faragha yako na tunaamini katika asili ya kuwezesha ya teknolojia zilizogatuliwa. Kukubali sarafu za kidijitali kwa huduma za kulipia kunaruhusu kutokujulikana zaidi kwa mtumiaji na kunalingana na maadili yetu ya Web3. Pia inawezesha ujumuishaji usio na mshono na Mfumo-Ikolojia wa Nutcoin, ikituruhusu kutoa manufaa ya kipekee kwa wamiliki wa NUT na NUTS.",
+    "q8": "Mapato kutoka NUTPAL AI yanasaidiaje Mfumo-Ikolojia wa Nutcoin?",
+    "a8a": "Mapato yanayotokana na huduma za kulipia za NUTPAL AI yameundwa ili kuunda mzunguko endelevu na wa kupunguza mfumuko wa bei kwa Mfumo-Ikolojia wa Nutcoin. Sehemu kubwa itatumika kununua tena tokeni za NUT kutoka sokoni, ambazo kisha huchomwa ili kuunda NUTS NFTs. NUTS NFTs hizi, kwa upande wake, hufungua vipengele vya kipekee katika NUTPAL AI, na kuunda mzunguko unaoendelea unaowanufaisha watumiaji wa NUTPAL AI na jamii pana ya Nutcoin kwa kuongeza thamani ya tokeni na matumizi ya NFT.",
+    "a8b": "Jifunze zaidi kuhusu tokenomiki za kupunguza mfumuko wa bei za Mfumo-Ikolojia wa Nutcoin"
+  },
+  "connectWithUs": {
+    "title": "Ungana Nasi",
+    "subtitle": "Jamii Yako Inakusubiri! Jiunge nasi, jenga, shiriki & gundua!",
+    "button": "Jiunge na Discord"
+  },
+  "footer": {
+    "tagline1": "Mradi unaoendeshwa na jamii kwa mazungumzo ya AI yenye kuvutia,",
+    "tagline2": "kutoka uigizaji dhima hadi soga ya jumla & zaidi.",
+    "copyright": "Hakimiliki {{year}} - NUTPAL AI. Haki zote zimehifadhiwa.",
+    "projectTitle": "Mradi",
+    "privacyLinkText": "Sera ya Faragha",
+    "termsLinkText": "Masharti ya Huduma",
+    "connectTitle": "Ungana",
+    "discordLinkText": "Discord",
+    "twitterLinkText": "X (Twitter)"
+  }
+}

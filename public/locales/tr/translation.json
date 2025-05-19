@@ -1,0 +1,91 @@
+{
+  "launchApp": "Uygulamayı Başlat",
+  "backHome": "Ana Sayfaya Dön",
+  "pageNotFound": "Bu sayfayı bulamadık.",
+  "hero": {
+    "subHeading1": "Topluluk odaklı bir proje:",
+    "subHeading2": "etkileyici AI sohbeti, yaratıcı rol yapma",
+    "subHeading3": "ve aradaki her şey."
+  },
+  "keyFeatures": {
+    "title": "Gerçekten Kişisel Bir AI'ın Gücünü Keşfedin",
+    "subtitle1": "NUTPAL AI'ı geleneksel sohbet botlarının çok ötesine taşıyan",
+    "subtitle2": "benzersiz yaratıcı bir deneyim haline getiren temel yetenekleri keşfedin.",
+    "feature1": {
+      "title": "Canlanan AI",
+      "description": "Geniş bağlamı anlayan, derinlemesine incelikli duyguları hisseden, sesinizi duyan, dünyanızı gören ve her etkileşimi hatırlayan zengin bir kişiliğe sahip AI deneyimini yaşayın."
+    },
+    "feature2": {
+      "title": "Sınırsız Özelleştirme",
+      "description": "İdeal AI'ınızı şekillendirin: benzersiz kişiliği, sesi, görselleri ve gerçek zamanlı animasyonu sorunsuzca birleştirin. Gizlilik öncelikli: varsayılan olarak, tüm sohbetleriniz ve oluşturduklarınız yerel olarak cihazınızda saklanır."
+    },
+    "feature3": {
+      "title": "Kristal Netliğinde Sesli İletişim",
+      "description": "AI'ınızın doğal, etkileyici seslerle konuştuğunu duyun. Sizi gerçekten içine çeken yüksek kaliteli sesle akıcı, büyüleyici sohbetlere katılın."
+    },
+    "feature4": {
+      "title": "Etkileşimli Görsel Dünyalar ve Hikayeler",
+      "description": "AI'ınızı ve dinamik ortamlarını son teknoloji görüntü ve gerçek zamanlı video üretimiyle izleyin. Hatta bağımsız AI'lar arasında grup sohbetleri başlatarak canlı etkileşimli AI filmlerinin yeni bir çağını başlatın."
+    }
+  },
+  "aboutUs": {
+    "title": "Hakkımızda",
+    "subtitle": "NUTPAL AI ile Tanışın: İnovasyonun Hayal Gücüyle Buluştuğu Yer.",
+    "content": "Sadece AI geliştirmekle kalmıyor, hissedebileceğiniz bir şeyler inşa ediyoruz. Topluluk tarafından desteklenen, yaratıcılık için tasarlandı. Biz, güçlendiren ve ilham veren akıllı deneyimler oluşturma tutkusuyla birleşmiş bir AI ve Web3 öncüleri topluluğuyuz. Şeffaf, topluluk öncelikli bir yaklaşımla hareket eden NUTPAL AI, gelişmiş AI'ın sonsuz yaratıcılıkla buluştuğu bir platform yaratma ortak hayalinden doğdu."
+  },
+  "ourMission": {
+    "title": "Misyonumuz",
+    "subtitle": "Yarat. Özelleştir. Bağlan. Senin AI'ın, Senin Evrenin.",
+    "content": "Ya AI metinden daha fazlası olabilseydi? Yaratabiliyorken neden sadece sohbet edesiniz ki? NUTPAL AI sizi yönetmen koltuğuna oturtuyor. Gerçekten benzersiz kişiliklere sahip AI arkadaşları tasarlayın, sürekli gelişen gerçekçi sesler yelpazesinden seçim yapın ve AI tarafından üretilen görüntülerle ve hatta video etkileşimleriyle onlara hayat verin. Misyonumuz bu gücü sorunsuz bir şekilde sunmaktır – karmaşık kurulumlar yok, pahalı donanımlar yok, sadece saf yaratıcı özgürlük. Güçlü AI'ın herkes için, her yerde erişilebilir olması gerektiğine inanıyoruz."
+  },
+  "communityDriven": {
+    "title": "Topluluk Odaklı",
+    "subtitle": "NUTPAL AI, sizinle birlikte yaratılan, yaşayan, nefes alan bir platformdur.",
+    "content": "Meraklıların, geliştiricilerin, sanatçıların ve rol oyuncularının paylaştığı, öğrendiği ve yenilik yaptığı canlı bir ekosistem inşa ediyoruz. Geri bildirimleriniz doğrudan gelişimimizi etkiliyor ve yaratımlarınız hepimize ilham veriyor. Sizi bize katılmaya, fikirler üzerinde işbirliği yapmaya ve Yapay Zekanın tüm potansiyelini keşfetmeye davet ediyoruz. Birlikte, etkileşimli AI'ın neler olabileceğinin sınırlarını zorluyor ve dünya için anlamlı bir şeyler yaratıyoruz."
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Sorularınız mı var? Cevaplarımız var.",
+    "q1": "NUTPAL AI nedir?",
+    "a1": "NUTPAL AI, hiper-gerçekçi AI sohbeti, sürükleyici rol yapma ve sonsuz yaratıcı olanaklar için topluluk odaklı bir platformdur. Teknolojimiz, özelleştirilebilir AI kişilikleriyle gerçekçi konuşmalar sağlar.",
+    "q2": "NUTPAL AI gerçekten ücretsiz mi?",
+    "a2": "Evet! Gelişmiş AI sohbeti, sesli etkileşimler ve kapsamlı özelleştirme dahil olmak üzere NUTPAL AI'ın temel özelliklerinin keyfini tamamen ücretsiz çıkarabilirsiniz. Video oluşturma gibi geliştirilmiş özellikler ve bazı ultra gelişmiş yetenekler premium seçenekler olarak mevcuttur.",
+    "q3": "NUTPAL AI kimler için tasarlandı?",
+    "a3": "NUTPAL AI, AI etkileşiminin geleceği hakkında meraklı olan herkes içindir! İster bir AI meraklısı olun, ister benzersiz karakterler tasarlamak isteyen bir yaratıcı, sürükleyici rol yapma isteyen bir RPG hayranı, AI yeteneklerini keşfeden bir geliştirici veya sadece daha kişisel ve ilgi çekici bir AI arkadaşı arayan biri olun, NUTPAL AI size bir şeyler sunar. Topluluk odaklı yaklaşımımız aynı zamanda AI'ın yeni neslini şekillendirmeye yardımcı olmak isteyenler için bir platform olduğu anlamına gelir.",
+    "q4": "Verilerim nasıl işleniyor? Peki ya gizlilik?",
+    "a4": "Gizliliğiniz her şeyden önemlidir. Varsayılan olarak, NUTPAL AI içindeki tüm sohbetleriniz, AI kreasyonlarınız ve kişiselleştirmeleriniz yerel olarak cihazınızda saklanır. Özgürce keşfetmeniz ve yaratmanız için güvenli ve özel bir ortam sağlamayı taahhüt ediyoruz.",
+    "q5": "NUTPAL AI'ın NSFW veya yetişkinlere yönelik içerik konusundaki tutumu nedir?",
+    "a5a": "NUTPAL AI, kullanıcı gizliliği ve özgürlüğü temel alınarak tasarlanmıştır. Varsayılan olarak, tüm sohbetleriniz, AI model yapılandırmalarınız ve oluşturulan içeriğiniz yerel olarak cihazınızda saklanır. Platform, kişisel etkileşimlerinizi veya keşfetmeyi ya da oluşturmayı seçtiğiniz belirli içeriği aktif olarak izlemez, filtrelemez veya saklamaz. Bu size önemli bir özgürlük tanır.",
+    "a5b": "Ancak bu özgürlük sorumluluk getirir. NUTPAL AI ile oluşturduğunuz, içe aktardığınız veya kullandığınız her türlü içerikten yalnızca siz sorumlusunuz. Kullanıcıların platformu özel, kişisel amaçlar için kullanmasını ve tüm faaliyetlerin ve içeriğin yerel yargı bölgelerindeki geçerli yasa ve yönetmeliklere uymasını bekliyoruz. İçeriğin kabul edilebilir kullanımı hakkında daha fazla ayrıntı için lütfen bkz.",
+    "q6": "Nutcoin Ekosistemi nedir ve NUTPAL AI ile bağlantısı nedir?",
+    "a6a": "NUTPAL AI, Nutcoin Ekosisteminin yenilikçi ruhundan doğan bir amiral gemisi projesidir – canlı, topluluk odaklı bir Web3 alanı. NUTPAL AI, en son teknolojiye sahip AI deneyimleri sunmaya odaklanmış bağımsız bir uygulama olsa da, ekosistemin topluluk, şeffaflık ve benzersiz değer yaratmak için teknolojiden yararlanma taahhüdünü paylaşır.",
+    "a6b": "Nutcoin Ekosisteminden Nutcoin token (NUT) ve NUTS NFT'ler, NUTPAL AI deneyiminizi geliştirmede özel bir rol oynar:",
+    "a6b1Title": "NUT Token İndirimleri:",
+    "a6b1Content": "NUT tokenleri ile premium özellikler için ödeme yaparken indirimli fiyatlardan yararlanın.",
+    "a6b2Title": "NUTS NFT Sahibi Ayrıcalıkları (toplamda sadece 10 bin adet):",
+    "a6b2Content": "NUTS NFT sahipliği ile özel özelliklere ve kalıcı indirimlere erişin.",
+    "a6b3Title": "Ultra Mod (sadece 10 ultra nadir NUTS NFT için):",
+    "a6b3Content": "En son SOTA özelliklerine ve Bilinçli AI'a herkesten önce erken erişimin kilidini açın.",
+    "q7": "Premium özellikler için neden sadece kripto para birimleri kabul ediliyor?",
+    "a7": "Gizliliğinize öncelik veriyoruz ve merkezi olmayan teknolojilerin güçlendirici doğasına inanıyoruz. Premium hizmetler için kripto para birimlerini kabul etmek, daha fazla kullanıcı anonimliği sağlar ve Web3 anlayışımızla uyumludur. Ayrıca, Nutcoin Ekosistemi ile sorunsuz entegrasyonu mümkün kılarak NUT ve NUTS sahiplerine benzersiz avantajlar sunmamızı sağlar.",
+    "q8": "NUTPAL AI'dan elde edilen gelir Nutcoin Ekosistemini nasıl destekliyor?",
+    "a8a": "NUTPAL AI'ın premium hizmetlerinden elde edilen gelir, Nutcoin Ekosistemi için sürdürülebilir ve deflasyonist bir döngü oluşturmak üzere tasarlanmıştır. Önemli bir kısmı, piyasadan NUT tokenlerini geri almak için kullanılacak ve bunlar daha sonra NUTS NFT'leri basmak için yakılacaktır. Bu NUTS NFT'ler de NUTPAL AI'da benzersiz özelliklerin kilidini açarak, hem NUTPAL AI kullanıcılarına hem de daha geniş Nutcoin topluluğuna token değerini ve NFT faydasını artırarak fayda sağlayan sürekli bir döngü yaratır.",
+    "a8b": "Nutcoin Ekosisteminin deflasyonist tokenomikleri hakkında daha fazla bilgi edinin"
+  },
+  "connectWithUs": {
+    "title": "Bizimle Bağlantı Kurun",
+    "subtitle": "Topluluğunuz Sizi Bekliyor! Bize katılın, inşa edin, paylaşın ve keşfedin!",
+    "button": "Discord'a Katılın"
+  },
+  "footer": {
+    "tagline1": "Etkileyici AI sohbetleri için topluluk odaklı bir proje,",
+    "tagline2": "rol yapmaktan genel sohbete ve ötesine.",
+    "copyright": "Telif Hakkı {{year}} - NUTPAL AI. Tüm hakları saklıdır.",
+    "projectTitle": "Proje",
+    "privacyLinkText": "Gizlilik Politikası",
+    "termsLinkText": "Hizmet Şartları",
+    "connectTitle": "Bağlan",
+    "discordLinkText": "Discord",
+    "twitterLinkText": "X (Twitter)"
+  }
+}
