@@ -1,4 +1,4 @@
-import { ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import { community, goal, group, wave } from "../../../assets";
@@ -8,7 +8,8 @@ import { KeyFeaturesSection } from "./KeyFeaturesSection";
 import { LandingSection } from "./LandingSection";
 
 export const LandingInfo = () => {
-	const { t } = useTranslation();
+	const { t, i18n } = useTranslation();
+	const isRTL = i18n.dir() === "rtl";
 
 	return (
 		<main className="px-custom mx-auto flex min-h-screen w-full max-w-7xl flex-col items-center justify-center gap-20 py-16">
@@ -49,7 +50,7 @@ export const LandingInfo = () => {
 						>
 							<div className="absolute h-80 w-80 rounded-full bg-ga-orangenut-default/30 blur-3xl transition-all duration-1000 ease-in-out group-hover:-rotate-45 group-hover:scale-y-150 group-hover:blur-2xl" />
 							<p>{t("launchApp")}</p>
-							<ChevronRight />
+							{isRTL ? <ChevronLeft /> : <ChevronRight />}{" "}
 						</Button>
 					</Link>
 				</div>
@@ -109,7 +110,7 @@ export const LandingInfo = () => {
 						>
 							<div className="absolute h-80 w-80 rounded-full bg-ga-orangenut-default/30 blur-3xl transition-all duration-1000 ease-in-out group-hover:-rotate-45 group-hover:scale-y-150 group-hover:blur-2xl" />
 							<p>{t("connectWithUs.button")}</p>
-							<ChevronRight />
+							{isRTL ? <ChevronLeft /> : <ChevronRight />}
 						</Button>
 					</Link>
 				</div>

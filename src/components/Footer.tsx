@@ -23,7 +23,7 @@ export const Footer = () => {
 					<Link to="/" className="w-fit">
 						NUTPAL <span className="text-ga-orangenut-default">AI</span>
 					</Link>
-					<p className="max-w-md text-sm font-light">
+					<p className="text-sm font-light">
 						{t("footer.tagline1")}
 						<br className="hidden sm:block" /> {t("footer.tagline2")}
 					</p>

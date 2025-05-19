@@ -24,30 +24,30 @@ const LanguageHandler = () => {
 	const location = useLocation();
 
 	useEffect(() => {
-		const currentLng = lng || i18n.language.split("-")[0] || "en";
-		if (
-			supportedLngs.hasOwnProperty(currentLng) &&
-			i18n.language !== currentLng
-		) {
-			i18n.changeLanguage(currentLng);
+		const currentLngInPath = lng || i18n.language.split("-")[0] || "en";
+
+		if (supportedLngs.hasOwnProperty(currentLngInPath)) {
+			if (i18n.language !== currentLngInPath) {
+				i18n.changeLanguage(currentLngInPath);
+			}
+			// Set the lang attribute on the HTML element
+			document.documentElement.lang = currentLngInPath;
+			// --- RTL SUPPORT ---
+			// Set the dir attribute on the HTML element based on the current language
+			document.documentElement.dir = i18n.dir(currentLngInPath);
 		}
-		document.documentElement.lang = currentLng; // Update HTML lang attribute
-	}, [lng, i18n]);
+	}, [lng, i18n, location.pathname]); // location.pathname added as dependency
 
 	// If the language in the path is not supported, redirect to fallback (e.g., English)
-	// or to a language selection page.
+	// This redirection logic might need refinement based on your exact routing setup.
 	if (lng && !supportedLngs.hasOwnProperty(lng)) {
-		// Construct the path without the invalid language code
-		const fallbackPath = location.pathname.replace(
-			`/${lng}`,
-			`/${i18n.options.fallbackLng}`,
-		);
-		return <Navigate to={fallbackPath} replace />;
+		const fallbackLng = (i18n.options.fallbackLng as string[])[0] || "en";
+		const newPath = location.pathname.replace(`/${lng}`, `/${fallbackLng}`);
+		return <Navigate to={newPath} replace />;
 	}
 
-	return null;
+	return null; // This component does not render anything itself
 };
-
 // Component to wrap routes that need language prefix
 const LocalizedRoutes = () => {
 	return (

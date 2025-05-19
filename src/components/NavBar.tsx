@@ -37,7 +37,7 @@ export const NavBar = () => {
 					<img
 						src={logo}
 						alt="Nutcoin Ecosystem Logo"
-						className="mr-1 h-6 w-6 object-contain"
+						className="mr-1 h-6 w-6 object-contain rtl:ml-1"
 					/>
 					<p className="text-[18px] font-bold text-ga-white-default">
 						NUTPAL <span className="text-ga-orangenut-default">AI</span>
@@ -79,9 +79,11 @@ export const NavBar = () => {
 					onClick={() => setToggle(!toggle)}
 				/>
 				<div
-					className={`${
-						!toggle ? "hidden" : "flex"
-					} landing-gradient absolute right-0 top-20 z-10 mx-4 my-2 min-w-[140px] rounded-xl p-6`}
+					className={twJoin(
+						!toggle ? "hidden" : "flex",
+						"landing-gradient absolute top-20 z-10 mx-4 my-2 min-w-[140px] rounded-xl p-6",
+						"right-0 rtl:left-0 rtl:right-auto",
+					)}
 				>
 					<ul className="flex flex-1 list-none flex-col items-start justify-end gap-4">
 						<li>

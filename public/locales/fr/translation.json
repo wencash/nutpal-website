@@ -1,0 +1,91 @@
+{
+    "launchApp": "Lancer l'App",
+    "backHome": "Retour à l'Accueil",
+    "pageNotFound": "Nous n'avons pas trouvé cette page.",
+    "hero": {
+        "subHeading1": "Un projet communautaire pour",
+        "subHeading2": "un chat IA captivant, du jeu de rôle créatif",
+        "subHeading3": "et tout ce qu'il y a entre les deux."
+    },
+    "keyFeatures": {
+        "title": "Libérez la Puissance d'une IA Vraiment Personnelle",
+        "subtitle1": "Découvrez les capacités fondamentales qui font de NUTPAL AI",
+        "subtitle2": "une expérience créative unique, bien au-delà des chatbots traditionnels.",
+        "feature1": {
+            "title": "Une IA Qui Prend Vie",
+            "description": "Expérimentez une IA dotée d'une riche personnalité, qui comprend un vaste contexte, ressent des émotions profondément nuancées, entend votre voix, voit votre monde et se souvient de chaque interaction."
+        },
+        "feature2": {
+            "title": "Personnalisation Sans Limites",
+            "description": "Sculptez votre IA idéale : fusionnez de manière transparente une personnalité, une voix, des visuels et des animations en temps réel uniques. Priorité à la confidentialité : par défaut, toutes vos discussions et créations sont sauvegardées uniquement sur votre appareil."
+        },
+        "feature3": {
+            "title": "Communication Vocale Cristalline",
+            "description": "Entendez votre IA parler avec des voix naturelles et expressives. Engagez des conversations fluides et captivantes grâce à un audio haute-fidélité qui vous immerge véritablement."
+        },
+        "feature4": {
+            "title": "Mondes Visuels et Histoires Interactives",
+            "description": "Voyez vos IA et leurs environnements dynamiques grâce à une génération d'images et de vidéos en temps réel de pointe. Lancez même des discussions de groupe entre IA indépendantes, inaugurant une nouvelle ère de films interactifs en direct créés par l'IA."
+        }
+    },
+    "aboutUs": {
+        "title": "À Propos de Nous",
+        "subtitle": "Découvrez NUTPAL AI : Là où l'Innovation Rencontre l'Imagination.",
+        "content": "Nous ne construisons pas seulement une IA, mais quelque chose que vous pouvez ressentir. Animés par la communauté, conçus pour la créativité. Nous sommes un collectif de pionniers de l'IA et du Web3, unis par la passion de créer des expériences intelligentes qui autonomisent et inspirent. Guidé par une approche transparente et axée sur la communauté, NUTPAL AI est né d'un rêve partagé : créer une plateforme où l'IA avancée rencontre la créativité jusqu'à l'infini."
+    },
+    "ourMission": {
+        "title": "Notre Mission",
+        "subtitle": "Créez. Personnalisez. Connectez. Votre IA, Votre Univers.",
+        "content": "Et si l'IA pouvait être plus que du simple texte ? Pourquoi se contenter de discuter quand on peut créer ? NUTPAL AI vous met aux commandes. Concevez des compagnons IA dotés de personnalités véritablement uniques, choisissez parmi un éventail de voix réalistes en constante évolution, et donnez-leur vie avec des images générées par l'IA et même des interactions vidéo. Notre mission est de fournir cette puissance de manière transparente – sans configurations complexes, ni matériel coûteux, juste une pure liberté créative. Nous croyons qu'une IA puissante devrait être accessible à tous, partout."
+    },
+    "communityDriven": {
+        "title": "Guidé par la Communauté",
+        "subtitle": "NUTPAL AI est une plateforme vivante, co-créée avec vous.",
+        "content": "Nous construisons un écosystème dynamique où passionnés, développeurs, artistes et adeptes du jeu de rôle convergent pour partager, apprendre et innover. Vos retours influencent directement notre évolution et vos créations nous inspirent tous. Nous vous invitons à nous rejoindre, à collaborer sur des idées et à explorer tout le potentiel de l'Intelligence Artificielle. Ensemble, nous repoussons les limites de ce que peut être l'IA interactive et créons quelque chose de significatif pour le monde."
+    },
+    "faq": {
+        "title": "Questions Fréquemment Posées",
+        "subtitle": "Des questions ? Nous avons les réponses.",
+        "q1": "Qu'est-ce que NUTPAL AI ?",
+        "a1": "NUTPAL AI est une plateforme communautaire pour un chat IA hyper-réaliste, du jeu de rôle immersif et des possibilités créatives infinies. Notre technologie permet des conversations plus vraies que nature avec des personnalités IA personnalisables.",
+        "q2": "NUTPAL AI est-il vraiment gratuit ?",
+        "a2": "Oui ! Vous pouvez profiter gratuitement des fonctionnalités de base de NUTPAL AI, y compris le chat IA avancé, les interactions vocales et une personnalisation poussée. Des fonctionnalités améliorées comme la génération vidéo et certaines capacités ultra-avancées sont disponibles en tant qu'options premium.",
+        "q3": "À qui s'adresse NUTPAL AI ?",
+        "a3": "NUTPAL AI s'adresse à toute personne curieuse de l'avenir de l'interaction avec l'IA ! Que vous soyez un passionné d'IA, un créatif cherchant à concevoir des personnages uniques, un fan de RPG désirant un jeu de rôle immersif, un développeur explorant les capacités de l'IA, ou simplement quelqu'un recherchant un compagnon IA plus personnel et engageant, NUTPAL AI a quelque chose pour vous. Notre approche communautaire signifie également que c'est une plateforme pour ceux qui veulent aider à façonner la prochaine génération d'IA.",
+        "q4": "Comment mes données sont-elles gérées ? Qu'en est-il de la confidentialité ?",
+        "a4": "Votre confidentialité est primordiale. Par défaut, toutes vos discussions, créations IA et personnalisations au sein de NUTPAL AI sont stockées localement sur votre appareil. Nous nous engageons à fournir un environnement sécurisé et privé pour que vous puissiez explorer et créer librement.",
+        "q5": "Quelle est la position de NUTPAL AI sur le contenu NSFW ou pour adultes ?",
+        "a5a": "NUTPAL AI est conçu avec la confidentialité et la liberté de l'utilisateur au cœur de ses préoccupations. Par défaut, toutes vos discussions, configurations de modèles IA et contenus générés sont stockés localement sur votre appareil. La plateforme ne surveille, ne filtre ni ne stocke activement vos interactions personnelles ou le contenu spécifique que vous choisissez d'explorer ou de créer. Cela vous offre une liberté considérable.",
+        "a5b": "Cependant, cette liberté s'accompagne de responsabilités. Vous êtes seul responsable de tout contenu que vous générez, importez ou utilisez avec NUTPAL AI. Nous attendons des utilisateurs qu'ils utilisent la plateforme à des fins privées et personnelles et qu'ils s'assurent que toutes les activités et contenus sont conformes aux lois et réglementations applicables de leur juridiction locale. Pour plus de détails sur l'utilisation acceptable du contenu, veuillez consulter nos",
+        "q6": "Qu'est-ce que l'Écosystème Nutcoin et son lien avec NUTPAL AI ?",
+        "a6a": "NUTPAL AI est un projet phare né de l'esprit innovant de l'Écosystème Nutcoin – un espace Web3 dynamique et communautaire. Bien que NUTPAL AI soit une application autonome axée sur la fourniture d'expériences IA de pointe, elle partage l'engagement de l'écosystème envers la communauté, la transparence et l'utilisation de la technologie pour créer une valeur unique.",
+        "a6b": "Le token Nutcoin (NUT) et les NFT NUTS de l'Écosystème Nutcoin jouent un rôle spécial dans l'amélioration de votre expérience NUTPAL AI :",
+        "a6b1Title": "Réductions avec le Token NUT :",
+        "a6b1Content": "Bénéficiez de tarifs réduits en payant les fonctionnalités premium avec des tokens NUT.",
+        "a6b2Title": "Avantages pour les Détenteurs de NFT NUTS (seulement 10k au total) :",
+        "a6b2Content": "Accédez à des fonctionnalités exclusives et à des réductions permanentes en possédant un NFT NUTS.",
+        "a6b3Title": "Mode Ultra (pour seulement 10 NFT NUTS ultra-rares) :",
+        "a6b3Content": "Débloquez un accès anticipé avant tout le monde aux dernières fonctionnalités de pointe & à l'IA Consciente.",
+        "q7": "Pourquoi seules les cryptomonnaies sont-elles acceptées pour les fonctionnalités premium ?",
+        "a7": "Nous accordons la priorité à votre vie privée et croyons au pouvoir émancipateur des technologies décentralisées. Accepter les cryptomonnaies pour les services premium permet une plus grande anonymat pour l'utilisateur et s'aligne sur notre éthique Web3. Cela permet également une intégration transparente avec l'Écosystème Nutcoin, nous autorisant à offrir des avantages uniques aux détenteurs de NUT et de NUTS.",
+        "q8": "Comment les revenus de NUTPAL AI soutiennent-ils l'Écosystème Nutcoin ?",
+        "a8a": "Les revenus générés par les services premium de NUTPAL AI sont conçus pour créer un cycle durable et déflationniste pour l'Écosystème Nutcoin. Une partie importante sera utilisée pour racheter des tokens NUT sur le marché, qui sont ensuite brûlés pour créer des NFT NUTS. Ces NFT NUTS, à leur tour, débloquent des fonctionnalités uniques dans NUTPAL AI, créant une boucle continue qui profite à la fois aux utilisateurs de NUTPAL AI et à la communauté Nutcoin au sens large en augmentant la valeur du token et l'utilité des NFT.",
+        "a8b": "En savoir plus sur la tokénomique déflationniste de l'Écosystème Nutcoin"
+    },
+    "connectWithUs": {
+        "title": "Connectez-vous avec Nous",
+        "subtitle": "Votre Communauté vous Attend ! Rejoignez-nous, construisez, partagez & explorez !",
+        "button": "Rejoindre le Discord"
+    },
+    "footer": {
+        "tagline1": "Un projet communautaire pour des conversations IA captivantes,",
+        "tagline2": "du jeu de rôle au chat général & au-delà.",
+        "copyright": "Copyright {{year}} - NUTPAL AI. Tous droits réservés.",
+        "projectTitle": "Projet",
+        "privacyLinkText": "Politique de Confidentialité",
+        "termsLinkText": "Conditions d'Utilisation",
+        "connectTitle": "Nous Suivre",
+        "discordLinkText": "Discord",
+        "twitterLinkText": "X (Twitter)"
+    }
+}

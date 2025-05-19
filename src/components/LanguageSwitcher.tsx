@@ -3,6 +3,7 @@ import { ChevronDown, Globe } from "lucide-react";
 import { useEffect, useRef, useState } from "react"; // Make sure useEffect and useRef are imported
 import { useTranslation } from "react-i18next";
 import { useLocation, useNavigate, useParams } from "react-router-dom";
+import { twJoin } from "tailwind-merge";
 import { supportedLngs } from "../i18n";
 
 export const LanguageSwitcher = () => {
@@ -73,7 +74,9 @@ export const LanguageSwitcher = () => {
 				aria-label="Change language"
 			>
 				<Globe size={20} />
-				<span className="ml-2 text-sm uppercase">{currentLanguage}</span>
+				<span className="ml-2 text-sm uppercase rtl:mr-2">
+					{currentLanguage}
+				</span>
 				<ChevronDown
 					size={16}
 					className={`ml-1 transition-transform duration-200 ${isOpen ? "rotate-180" : ""}`}
@@ -81,8 +84,8 @@ export const LanguageSwitcher = () => {
 			</button>
 			{isOpen && (
 				<div
-					ref={dropdownRef} // Assign ref to the dropdown menu
-					className="scrollbar absolute right-0 z-50 mt-2 max-h-60 w-48 overflow-y-auto rounded-md bg-ga-black-lighter shadow-lg"
+					ref={dropdownRef}
+					className="scrollbar absolute right-0 z-50 mt-2 max-h-60 w-48 overflow-y-auto rounded-md bg-ga-black-lighter shadow-lg rtl:left-0 rtl:right-auto"
 					role="menu"
 				>
 					<ul>
@@ -90,11 +93,13 @@ export const LanguageSwitcher = () => {
 							<li key={code} role="none">
 								<button
 									onClick={() => changeLanguage(code)}
-									className={`w-full px-4 py-2 text-left text-sm hover:bg-ga-gray-default ${
+									className={twJoin(
+										"w-full px-4 py-2 text-sm hover:bg-ga-gray-default",
+										"text-start",
 										currentLanguage === code
 											? "font-bold text-ga-orangenut-default"
-											: "text-ga-white-default"
-									}`}
+											: "text-ga-white-default",
+									)}
 									role="menuitem"
 								>
 									{name} ({code.toUpperCase()})
