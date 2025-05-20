@@ -38,21 +38,24 @@ export const LandingInfo = () => {
 				</div>
 
 				<div className="group flex flex-col items-center gap-4">
-					<Link
-						target="_blank"
-						rel="noopener noreferrer"
-						to="https://nutpal.netlify.app"
+					{/* Button is now directly used, not wrapped in Link if disabled */}
+					<Button
+						schema="primary"
+						type="button"
+						classes="text-lg font-medium md:px-12 md:py-3 rounded-2xl flex flex-col items-center gap-1 relative" // Changed to flex-col and items-center
+						disabled={true} // Disable the button
 					>
-						<Button
-							schema="primary"
-							type="button"
-							classes="text-lg font-medium md:px-12 md:py-3 rounded-2xl flex flex-row gap-2 relative"
-						>
-							<div className="absolute h-80 w-80 rounded-full bg-ga-orangenut-default/30 blur-3xl transition-all duration-1000 ease-in-out group-hover:-rotate-45 group-hover:scale-y-150 group-hover:blur-2xl" />
+						<div className="absolute h-80 w-80 rounded-full bg-ga-orangenut-default/30 blur-3xl transition-all duration-1000 ease-in-out group-hover:-rotate-45 group-hover:scale-y-150 group-hover:blur-2xl" />
+						{/* Main text and "Coming Soon" subtext */}
+						<span className="relative z-10 flex items-center gap-2">
 							<p>{t("launchApp")}</p>
-							{isRTL ? <ChevronLeft /> : <ChevronRight />}{" "}
-						</Button>
-					</Link>
+							{/* Chevron is kept next to "Launch App" for consistency, design choice */}
+							{isRTL ? <ChevronLeft size={20} /> : <ChevronRight size={20} />}
+						</span>
+						<span className="relative z-10 text-xs font-normal normal-case opacity-80">
+							({t("comingSoon")})
+						</span>
+					</Button>
 				</div>
 			</section>
 
